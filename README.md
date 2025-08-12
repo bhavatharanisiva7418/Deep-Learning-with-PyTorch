@@ -1,4 +1,8 @@
 ## PyTorch Basics Exercises
+
+## Name: BHAVATHARANI S
+## Register Number: 212223230032
+
 ## AIM:
 Write a Python program using PyTorch that performs the following tasks:
 
@@ -7,9 +11,6 @@ Python 3.x
 PyTorch
 Jupyter Notebook (for interactive development and execution)
 ## Algorithm:
-
-## Name: BHAVATHARANI S
-## Register Number: 212223230032
 ## Step 1:
 
 Perform standard imports
